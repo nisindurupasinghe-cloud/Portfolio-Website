@@ -7,7 +7,7 @@ A clean, responsive, and modern portfolio website built entirely with HTML, CSS,
 
 • Modern UI/UX – Clean design with smooth animations
 
-• Interactive Elements – Dynamic navigation and hover effects
+• Interactive Elements – Dynamic navigation and hover effects 
 
 • SEO-Friendly – Semantic HTML and structured content
 
